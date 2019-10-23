@@ -5,5 +5,6 @@ public class IDEAGitHubTest111 {
         System.out.println("hello,git");
         System.out.println("hello,github1");
         System.out.println('A');
+        System.out.println("222BB");
     }
 }
